@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)](https://www.linkedin.com/in/josiel-borges-5abb3b221/)
 
-![Josiel GitHub stats](https://github-readme-stats.vercel.app/api?username=josielborges3&show_icons=true)
+![Josiel GitHub stats](https://github-readme-stats.vercel.app/api?username=josielborges3&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josielborges3&hide_progress=true)
 <!--
