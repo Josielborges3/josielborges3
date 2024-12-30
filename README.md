@@ -1,4 +1,7 @@
-## Hi there 👋
+### Olá! Eu sou o Josiel Borges 👋
+
+[![Linkedln]([![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)](https://www.linkedin.com/in/josiel-borges-5abb3b221/)
+
 
 <!--
 **Josielborges3/josielborges3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
